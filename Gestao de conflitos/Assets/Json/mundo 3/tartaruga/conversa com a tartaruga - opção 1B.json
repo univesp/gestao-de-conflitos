@@ -1,0 +1,60 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Está tudo bem. Só fique mais atento ao que acontece, ok? Vocês são uma equipe, afinal."  
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Ah, sim!",
+		"Sou um pouco desatento às vezes, desculpe."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Se bem que..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "O Gato andou meio estranho esses dias. Ele é sempre extrovertido e engraçado.",
+            "Gosto bastante dele, talvez esteja com algum problema.",
+		"Será que podemos ajudá-lo? "
+        ]
+    },
+
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Certamente que sim. Afinal, somos uma equipe, e todos são responsáveis pelos resultados.",
+             "Vou ver o que faço, nos falamos mais tarde. Bom trabalho!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Igualmente!"
+        ]
+    }
+]

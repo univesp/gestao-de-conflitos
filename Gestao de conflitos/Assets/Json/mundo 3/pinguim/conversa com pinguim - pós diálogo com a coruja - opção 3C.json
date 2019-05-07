@@ -1,0 +1,154 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sobre aqueles e-mails, conseguiu respondê-los?"
+             
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Ah, os e-mails. Consegui sim, antes do previsto, inclusive."
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Ah, que ótimo!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Ufa, ele parece mais calmo.)"			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sempre te vejo entregando os pedidos no prazo, gostaria de pedir desculpas pela confusão hoje cedo...",
+            "Fui um pouco insensível com você."			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Está tudo bem.",
+			 "Eu também me exaltei, devia ter previsto isso. Já estava bastante estressado...",
+			 "Também lhe devo desculpas."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sem problemas, acontece.",
+            "É por isso que você tem um cubo mágico em sua mesa?"			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Ah! Você notou.",
+			 "Sim, me ajuda a limpar a mente, sabe?"			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_pensa",
+        "fala": [
+             "..."				 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Estive verificando aqui e encontrei a planilha com as metas individuais nos últimos 2 dias. Isso iria lhe ajudar?"				 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "É exatamente o que estou precisando!"           			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Ah, se tivesse pedido com mais jeito antes.)"           			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Gostaria de receber por e-mail?"				 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sim, por favor.",
+            "Obrigado, Pinguim."			
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Por nada, chefe. Precisando, é só me informar."				 
+        ]
+    }
+	
+	
+	
+]

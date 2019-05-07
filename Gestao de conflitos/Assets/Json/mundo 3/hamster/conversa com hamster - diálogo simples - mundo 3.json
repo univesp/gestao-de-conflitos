@@ -1,0 +1,113 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Bom dia, Hamster. Tudo bem?"  
+        ]
+    },
+
+    {
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "Tudo bem sim, patrão! E tu?"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Estou ótimo. E como estão as coisas pelo setor hoje?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "Bem, patrão! Na verdade, mais ou menos, sabe?"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Sei...",
+			 "(E lá vamos nós.)"
+            ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala":[
+             "Outro dia tinha acabado de almoçar e fiquei esperando um tempão pra lavar a minha marmita!",
+			 "Onde já se viu isso?!",
+			 "Aquela Tartaruga parece que escuta música clássica enquanto lava a louça! Aposto que deve ser lenta assim no trabalho também! Não é?"
+            ]
+    },
+	
+		{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Complicado, né?"
+			 
+            ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "O Gato então, nem te conto!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Ah! Um momento, por favor, meu celular está tocando."
+			 
+            ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "Vai lá atender! Falamos mais depois!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "(Ufa, essa foi por pouco.)"
+			 
+            ]
+    }
+
+    
+]

@@ -1,0 +1,11 @@
+
+[
+    	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Deixe-me voltar ao trabalho. Estou concentrado."
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+
+[
+    
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Precisando de algo, estarei por aqui."
+             
+        ]
+    }
+		 
+]

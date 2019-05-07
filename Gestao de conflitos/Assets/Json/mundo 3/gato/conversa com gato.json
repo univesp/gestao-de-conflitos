@@ -1,0 +1,85 @@
+﻿
+[
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Bom dia, Gato!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "AH!",
+		"Di-di-di diga, chefe."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Nossa, que reação estranha.)"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sabe me dizer por que o rendimento de sua equipe anda caindo?"
+        ]
+    },
+
+    {
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_indiferente",
+        "fala": [
+             "Vou lá saber..."  
+        ]
+    },
+
+    {
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Deixe-me voltar ao trabalho, por favor. Estou concentrado no projeto..."  
+        ] 
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(E quanta indiferença.)"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Ok!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Verei o que faço sozinho sem a ajuda dele. Parece que sempre está com medo de alguma coisa ou indiferente a tudo.)"
+        ]
+    }
+]

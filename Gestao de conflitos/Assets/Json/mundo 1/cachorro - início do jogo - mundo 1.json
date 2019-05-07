@@ -1,0 +1,22 @@
+﻿[
+{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Ah... Nada como um bom café para dar aquela despertada pela manhã."
+
+        ]
+    },
+	
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+			 "Vamos começar o dia vendo como está o desempenho da equipe esta semana!"
+
+        ]
+    }
+	
+]

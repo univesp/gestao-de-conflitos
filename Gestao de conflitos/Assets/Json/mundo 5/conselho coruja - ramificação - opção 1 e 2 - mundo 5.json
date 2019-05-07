@@ -1,0 +1,108 @@
+﻿[
+    
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Que cara de preocupação é essa, meu filho?"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "Coruja, há algo acontecendo entre mim e o Gato que não estou compreendendo tão bem. Parece que só a minha presença já o desestabiliza."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_pensa",
+        "fala": [
+            "Sim, já notei... Talvez ele tenha medo de cachorros. E o fato de um deles ser seu chefe, agrave ainda mais a situação."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "Mas por quê?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Medo de comprometer o seu emprego, acredito. É comum funcionários se autopreservarem em situações como esta, ainda mais quando se sentem ameaçados de alguma forma."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "E, no caso dele, esquivando e se afastando da responsabilidade?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_pensa",
+        "fala": [
+            "Ao que parece, sim."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Abra o jogo. Exponha essa situação de forma empática, sabe? Ele precisa compreender que não há motivos para se sentir ameaçado e que não terá consequências ao assumir a responsabilidade pelo erro."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "Entendi, é um ótimo ponto."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Tentarei abordá-lo de uma forma diferente. Aproveitando, ainda tem café?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala": [
+            "Claro! Me conte depois o desfecho, hein?"
+             
+        ]
+    }	
+		
+]

@@ -1,0 +1,131 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Distraída e lenta como sempre..."  
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Distraída e lenta?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Hum..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Quem, eu?"
+        ]
+    },
+
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_nervoso",
+        "fala": [
+             "Argh!",
+		"E quem mais seria, Tartaruga?!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_triste",
+        "fala": [
+            "Sou meio desatento às vezes..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Percebi."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Desculpe..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Está tudo bem, não precisa se desculpar. Por um momento perdi minha compostura também."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Doutor Toupeira disse uma vez que tenho déficit de atenção."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Ah, nossa. Não sabia."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Acho que ele estava certo! Haha!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Haha.",
+		"Bom, verei como está o restante da equipe. Bom trabalho!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Obrigado.",
+		"Para você também!"
+        ]
+    }
+]

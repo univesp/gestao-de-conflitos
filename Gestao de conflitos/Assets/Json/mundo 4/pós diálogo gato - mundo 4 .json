@@ -1,0 +1,21 @@
+
+[
+    {
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_indiferente",
+        "fala": [
+             "Cof! Cof!" 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_indiferente",
+        "fala": [
+		"Espero que isso passe logo."  
+        ]
+    }
+		
+]

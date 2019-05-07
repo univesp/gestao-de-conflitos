@@ -1,0 +1,53 @@
+﻿
+[
+    
+    {
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "... Nossa, o Gato então! Solta várias bolas de pelos no banheiro! Entopem tudo o vaso!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Nem me fale..."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "Acho que deve ser por isso que ele anda um pouco estranho essa semana. Ele acostuma ser bastante alegre e saltitante. Mas não gosto daquele jeitinho descolado.",
+			"Fica fácil quando se é um gato, né? Haha!",
+			"Só não sei como ele fica tranquilo conversando com você."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Por quê, Hamster?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "HAMSTER",
+        "cachorroFala": false,
+        "expressao": "hamster_fala",
+        "fala": [
+            "Ah, você sabe... dizem que gatos têm medo de cachorros, né? Mas acho que são só boatos."             
+        ]
+    }
+    
+]

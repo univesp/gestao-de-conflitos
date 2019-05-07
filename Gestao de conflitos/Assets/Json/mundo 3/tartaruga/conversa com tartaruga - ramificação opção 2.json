@@ -1,0 +1,70 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Observei que o rendimento da equipe vem diminuindo... Saberia me dizer o que está acontecendo?"  
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Não sei...",
+            "Pode ser... talvez?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Venho cumprindo as minhas tarefas adequadamente, pelo menos.",
+            "Acho melhor você perguntar para o Pinguim ou para o Gato."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Se bem que..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "O Gato andou meio estranho esses dias. Ele é sempre extrovertido e engraçado.",
+            "Gosto bastante dele, talvez esteja com algum problema.",
+		"Será que podemos ajudá-lo? "
+        ]
+    },
+
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Certamente que sim. Afinal, somos uma equipe, e todos são responsáveis pelos resultados.",
+             "Vou ver o que faço, nos falamos mais tarde. Bom trabalho!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Igualmente!"
+        ]
+    }
+]

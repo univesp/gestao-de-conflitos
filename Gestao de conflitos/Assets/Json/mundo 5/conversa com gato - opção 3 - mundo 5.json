@@ -1,0 +1,94 @@
+﻿
+[
+    	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Por que continua mentindo para mim?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "Eu-eu... desculpa, che-chefe!"
+        ]
+    },	
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Venho notando um certo tratamento diferenciado comigo, e já não é a primeira vez que isso acontece. Inclusive, notei que você realizou hora extra nos últimos dias..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "Você havia comentado que estava doente, por que não está sendo franco comigo?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "Des-desculpe! Não queria te deixar irritado!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Pareço irritado para você?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "A-acho que pre-preciso tomar um ar..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Não se preocupe. Vou pegar um café para você, tudo bem? Vai te ajudar."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "Certo..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Que reação estranha, acho que preciso de uma visão mais ampla dessa questão. Dar uma volta e pegar um café irá ajudar a clarear as ideias.)"
+        ]
+    }
+		
+]

@@ -1,0 +1,47 @@
+﻿[
+{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "\"Cachorro\", não. É \"chefe\", por favor. Já disse para me tratar com mais respeito."
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+			 "Por que o rendimento está caindo?"
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Ah!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_triste",
+        "fala": [
+            "Perdão, chefe..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Esta semana estive bastante ocupado com o último projeto. Tenho vários e-mails a responder antes do almoço, inclusive...",
+			"Veja com o restante da equipe, de repente descobre algo, sim? Verei se há algo que possa lhe ajudar."
+        ]
+    }
+]

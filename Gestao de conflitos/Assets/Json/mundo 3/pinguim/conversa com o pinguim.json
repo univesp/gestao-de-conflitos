@@ -1,0 +1,22 @@
+﻿[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Olá, Pinguim, bom dia."  
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Bom dia, Cachorro!",
+			"Tantos e-mails a responder logo de manhã... mal atinjo a metade e já me sinto estressado."
+        ]
+    }
+
+    
+]

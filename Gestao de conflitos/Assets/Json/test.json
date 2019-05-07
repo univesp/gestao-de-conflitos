@@ -1,0 +1,38 @@
+[
+    {
+        "nomePersonagem": "Chefe",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Bom dia \n Algumacoisa"  
+            ]
+    },
+
+    {
+        "nomePersonagem": "Chefe",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            " Gato!",
+            "Boa tarde!" 
+        ]
+    },
+
+    {
+        "nomePersonagem": "Chefe",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Bom dia, Gato!"  
+        ]
+    },
+
+    {
+        "nomePersonagem": "Gato",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "AH! \n Di-di-di diga, chefe."  
+        ] 
+    }
+]

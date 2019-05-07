@@ -1,0 +1,15 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Spritesheet/spritesheet_gameplay.tpsheet
+- Assets/Spritesheet/spritesheet_hud.tpsheet
+- Assets/Spritesheet/spritesheet_menu.tpsheet
+textureFileNames:
+- Assets/Spritesheet/spritesheet_gameplay.png
+- Assets/Spritesheet/spritesheet_hud.png
+- Assets/Spritesheet/spritesheet_menu.png
+normalmapFileNames:
+- 
+- 
+- 
+enableDebugOutput: 0

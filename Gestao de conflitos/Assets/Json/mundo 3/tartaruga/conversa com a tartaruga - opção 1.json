@@ -1,0 +1,111 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Por que é que o rendimento da equipe está caindo?"  
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Está caindo?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Hum..."
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Não sabia."
+        ]
+    },
+
+
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Tem certeza?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "..."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "... Tartaruga?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Ah, lembrei!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Pinguim havia comentado algo do gênero outro dia..."
+        ]
+    },  
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Mas como ando realizando meu trabalho normalmente, não dei muita atenção."
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+﻿
+[
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feedback",
+        "fala": [
+             "Observamos que os diálogos abordam diversas situações relacionadas ao clima organizacional de uma organização, o qual representa os níveis de satisfação dos membros de uma empresa e de qualidade do ambiente organizacional, conforme são percebidos ou experimentados pelos membros de uma organização, influenciando os comportamentos."
+        ]
+    },
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala": [
+             "Um bom clima organizacional contribui para maior envolvimento e motivação dos colaboradores, influenciado não só a busca por melhoria de desempenho, mas o incremento da pró-atividade da empresa como um todo.",
+			 "Esses aspectos devem ser observados pelo engenheiro de produção porque impacta sua gestão, sendo imperativo para as empresas que a sua liderança se preocupe com o clima organizacional."
+        ]
+    },
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feedback",
+        "fala": [
+             "O conhecimento sobre a cultura e o clima organizacional contribui para que o engenheiro de produção, como gestor, possa buscar a harmonia e o equilíbrio numa empresa, tornando-se um líder cada vez mais eficiente e eficaz."
+        ]
+    },
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala": [
+             "Muito obrigado por jogar!"
+        ]
+    },
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feedback",
+        "fala": [
+             "Deseja jogar novamente?"
+        ]
+    }
+   
+]

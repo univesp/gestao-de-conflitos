@@ -1,0 +1,169 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Notei que há um cubo mágico em sua mesa, sabia que nunca consegui resolver um desses? Haha."
+             
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Ah, sério?"
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sim, sou péssimo!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Na verdade, é mais simples do que aparenta. É pura lógica, memorização de movimentos e combinações."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Ah, é por isso. Sou horrível em exercícios de lógica. Haha!"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Veja, as peças centrais de cada face possuem uma cor única e nunca são rotacionadas. Tente focar em formar uma cruz de mesma cor."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Certo!",
+			"(Estou é entendendo nada.)"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Pronto! Viu?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sim!"		
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Se quiser, posso emprestá-lo depois para que pratique."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Pode deixar!"		
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Ah, acabo de lembrar uma coisa.",
+			 "Estive verificando e encontrei a planilha com as metas individuais nos últimos 2 dias. Isto iria lhe ajudar?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "É exatamente o que estou precisando!"
+			             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Ah, se tivesse pedido com mais jeito antes.)"
+			             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Gostaria de receber por e-mail?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sim, por favor.",
+			"Obrigado, Pinguim."
+			             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Por nada, chefe. Precisando, é só me informar."
+        ]
+    }
+	
+	
+]

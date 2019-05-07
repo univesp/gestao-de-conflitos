@@ -1,0 +1,48 @@
+﻿[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "O que está acontecendo que o rendimento da equipe está caindo tanto assim?"
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Perdão?"
+        ]
+    },
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Não é você o líder da equipe deste projeto?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_nervoso",
+        "fala": [
+            "...",
+            "(Acalme-se, acalme-se, acalme-se.)"
+        ]
+    },
+
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Sou sim."
+        ]
+    }
+	
+]

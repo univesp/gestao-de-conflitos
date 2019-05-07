@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1731214663222308}
+  m_IsPrefabAsset: 1
+--- !u!1 &1731214663222308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4570341795321216}
+  - component: {fileID: 114344321647618738}
+  - component: {fileID: 114085984713997974}
+  m_Layer: 0
+  m_Name: Teste
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1851227397470570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4424131556504030}
+  - component: {fileID: 114379222168591240}
+  m_Layer: 0
+  m_Name: Base
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4424131556504030
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1851227397470570}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -25.332531, y: 2.9282196, z: 1.9110368}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4570341795321216}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4570341795321216
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731214663222308}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 18.896841, y: -1.4555513, z: 0.15146312}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4424131556504030}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114085984713997974
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731214663222308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acc72f46abedb4648a065d74f07ac0b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myFala: {fileID: 114379222168591240}
+  icon: {fileID: 0}
+  on: {fileID: 0}
+  off: {fileID: 0}
+  interaction:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114344321647618738
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731214663222308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e08f86b1e1842b440b1ae8475eeb949b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentKeyIndex: 0
+  myEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114085984713997974}
+        m_MethodName: MinhaFala
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114379222168591240
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1851227397470570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a74277fb04ea0a4fa945824220b4108, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  json: {fileID: 0}
+  dialogues:
+  - nomePersonagem: "g\u0337\u0314\u030F\u0302\u0358\u030C\u0333\u034D\u032A\u0329\u0333\u0320\u0322\u0326a\u0338\u034C\u0351\u030E\u0304\u033D\u035D\u030C\u0360\u0323\u0345\u033A\u032E\u033B\u0348\u0348\u0321\u0345\u032E\u0323\u0321\u0355\u0359t\u0335\u0305\u0358\u0301\u0342\u0311\u0359\u034D\u0321\u0316\u0323\u0331\u0347\u032F\u034E\u0331\u031D\u031Do\u0337\u030C\u035B\u0341\u0346\u0312\u0310\u0352\u0350\u033E\u0306\u034D\u033A\u033A\u033B\u0325\u0333\u0320"
+    cachorroFala: 0
+    expressao: gato_creepy2
+    fala:
+    - "V\u0335\u0357\u0350\u0307\u030A\u0308\u0313\u0352\u0359\u033Bo\u0334\u0350\u0304\u0306\u0357\u0360\u030C\u0305\u034C\u0351\u0305\u0314\u0313\u0354\u031F\u0355\u0318\u0331\u0332\u032F\u032F\u035C\u0359\u033C\u0317\u0320\u0319\u0324c\u0337\u0340\u030A\u0313\u030E\u0344\u0351\u033E\u033E\u0313\u0340\u0360\u0352\u030C\u0303\u0341\u0331\u033C\u033A\u0317\u031D\u0345\u0353\u0329\u032B\u032B\u032F\u0322\xEA\u0337\u033D\u0356\u0349\u032D\u0326\u034D\u0331\u0355\u034E\u031D
+      \u0335\u0314\u0313\u0344\u031C\u0330\u0319\u0348\u0347\u0328n\u0336\u0344\u0306\u031B\u0352\u0314\u0315\u0301\u033F\u0344\u033E\u0315\u034B\u0343\u0357\u0358\u0354\u0330\u035A\u035C\xE3\u0334\u030C\u0350\u0359\u032A\u0316\u032F\u0355\u035A\u0327\u031D\u0353\u0320\u0323\u033Co\u0337\u0343\u031A\u0344\u030D\u033C\u0339\u0331\u034E\u032F\u0355
+      \u0336\u0314\u0313\u0300\u0317\u0333\u034Dd\u0334\u030B\u0311\u0320\u035A\u032D\u0326\u033A\u0323\u0355\u031C\u032A\u034E\u0323\u0326\u0347e\u0335\u0344\u034A\u033E\u0308\u0317\u0349\u0323\u0316\u035A\u0356\u034E\u0319\u0353\u0347\u034E\u0319\u034E\u034Ev\u0334\u0306\u0307\u0310\u0306\u0347\u0322\u0326\u0332\u0331\u0326\u031D\u0354\u032D\u032A\u032Ce\u0337\u0357\u031B\u0309\u0314\u034D\u035C\u0339\u032F\u0325\u034E\u0348r\u0335\u0358\u031A\u0312\u0357\u034C\u035D\u0352\u0328\u033A\u0325\u0323i\u0337\u0306\u0314\u0346\u0308\u033F\u0307\u032D\u035A\u031D\u0328\u0353\u031Ea\u0335\u0311\u031C\u034D\u0355\u031E\u0348\u032C\u0355\u0322\u035A\u0345\u035C\u032C\u0359
+      \u0335\u0300\u0305\u0349u\u0335\u0344\u0340\u0342\u0307\u033F\u0313\u0311\u0332\u0332\u0349\u0333\u0331\u032Ds\u0334\u0315\u035D\u033F\u0340\u034A\u0342\u0351\u0359\u032Aa\u0337\u031A\u0304\u035D\u0303\u0317\u0320\u034E\u032E\u031E\u0325\u032A\u0359\u0354\u0330\u0347\u0356\u035C\u0349\u0325r\u0338\u030E\u031E\u0347
+      \u0336\u0303\u034C\u0346\u0343\u033D\u0342\u030C\u0315\u0304\u0351\u0358\u0313\u0307\u032B\u0320\u033B\u0353\u031F\u031F\u033A\u031F\u0316\u0327\u031E\u0353\u0316t\u0335\u0357\u0302\u0344\u0312\u032A\u0345\u035A\u0332\u0321\u0317\u0347\u033C\u032A\u0320\u0339\u031Fr\u0336\u031B\u0351\u031B\u0307\u030F\u031B\u0308\u0351\u034A\u0343\u0328\u0328\u033A\u032F\u032F\u031E\u035A\u0325\u035A\u0359\u0324\u0327\u0328a\u0335\u0351\u0305\u0350\u0340\u031A\u031B\u0305\u0352\u0304\u0341\u031B\u0323\u0331\u033C\u0349p\u0334\u030E\u035D\u0303\u0341\u0342\u0314\u0346\u0315\u031F\u0327\u0322\u033B\u032F\u0324\u035C\u0328a\u0336\u0305\u0304\u0351\u034B\u0303\u0357\u0358\u0349\u0353\u0332\u033B\u035C\xE7\u0335\u0315\u0352\u0328\u0345\u0327\u0330a\u0335\u0311\u034B\u0344\u0310\u0306\u0342\u0314\u0305\u0344\u030D\u031D\u0317\u0327\u0329\u0347s\u0334\u0351\u0313\u0313\u0302\u0312\u0313\u034B\u0301\u031A\u0344\u034A\u0350\u0313\u034C\u0350\u033B\u0319\u0332\u0318\u0318\u034E
+      \u0338\u0342\u035D\u0342\u034C\u0310\u032D\u0328\u034D\u034D\u034D\u0359\u0349\u0320\u0319\u0339\u031Ee\u0338\u0303\u034A\u030B\u030F\u0303\u0342\u0308\u0343\u0344\u0308\u0307\u0321\u0331\u0318\u035A\u033B\u032B\u0359m\u0338\u034B\u035B\u033D\u0352\u0329\u0319\u0325\u033B\u031E\u032D\u031D\u0333\u031F
+      \u0337\u030B\u0304\u030F\u0340\u0313\u0340\u0314\u032B\u031E\u0333\u032F\u0349\u0339\u033B\u0317\u032F\u033A\u031D\u0359b\u0335\u0309\u0303\u031A\u0351\u0315\u034B\u0310\u031B\u033F\u035B\u0315\u0348\u0324o\u0336\u0346\u033F\u030C\u033D\u0303\u030E\u0301\u0343\u0313\u032D\u0359\u0339\u032C\u0339\u0333\u0321\u0333\u032A\u0324m\u0338\u0301\u030C\u0310\u033E\u030E\u0315\u033E\u030A\u0300\u030C\u0358\u0358\u033C\u0316\u0322\u031E\u0323\u0347\u0348\u0354\u0355\u0348\u0347\u0317\u0355
+      \u0336\u0340\u0315\u0312\u034C\u0306\u0341\u030F\u033E\u0305\u0344\u033D\u0351\u0341\u033B\u031E\u0331\u0348\u031Cj\u0335\u0313\u0300\u033D\u034B\u0341\u0301\u0350\u0309\u030A\u0340\u0360\u0315\u0351\u0302\u0331\u033A\u0318\u0339\u032E\u0353\u0345\u0359\u0318\u0324\u033C\u0353\u0319\u0333\u035Co\u0335\u033E\u035D\u032C\u035A\u031Dg\u0337\u0360\u0357\u035D\u0306\u030D\u0346\u0302\u0360\u0351\u034C\u0305\u032B\u0322\u0325\u0317\u031D\u0333o\u0337\u0342\u0313\u0302\u0351\u0357\u0340\u0312\u0360\u0339\u032B\u0332\u035C\u032Cs\u0336\u0351\u0346\u0303\u0308\u0341\u0351\u0342\u0301\u0340\u032F\u033A\u0322\u032D\u033A\u0328\u0354\u0316\u032A!\u0334\u0313\u031D\u032D\u032F\u0329\u0329\u0325\u031E\u0359\u0318\u0328"
+  posConversa:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  opcoesTexto: []
+  opcoes: []

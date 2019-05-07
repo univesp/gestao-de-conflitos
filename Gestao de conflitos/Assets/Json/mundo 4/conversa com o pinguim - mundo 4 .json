@@ -1,0 +1,89 @@
+﻿[
+   
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Olá, chefe! Recebeu o e-mail?"
+        ]
+    },
+
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Oi, Pinguim! Sim, a planilha me foi muito útil!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Fico feliz, chefe! Na verdade, estava indo para sua sala neste exato momento.",
+			"Verifiquei o desempenho da equipe e, realmente, o Gato vem diminuindo o seu rendimento. Havia notado, mas não acreditava que fosse tanto assim."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala":[
+             "Cheguei a mesma conclusão."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Pensei até em conversar a respeito disso durante o almoço, mas creio que o problema seja outro."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Outro?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Sim, acredito que seja algo pessoal em relação a você. Andei percebendo que ele age de uma forma muito diferente do habitual quando se dirige a você."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Exatamente! Age como se sempre tivesse receio de algo.",
+			 "Obrigado, Pinguim! Verei o que faço em relação a isso!"
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Por nada, chefe! Boa sorte!"
+        ]
+    }
+		
+	
+    
+]

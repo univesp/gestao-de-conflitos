@@ -1,0 +1,14 @@
+﻿
+[
+   
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+             "Verificou em seu computador se o e-mail já chegou?"
+        ]
+    }
+    
+	
+]

@@ -1,0 +1,43 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Olá, Pinguim."
+             
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_triste",
+        "fala": [
+             "Diga, chefe..."
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "..."
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "(Bom, o mais difícil já passou.)",
+			"(E agora? Como devo me desculpar?)"
+			
+             
+        ]
+    }
+]

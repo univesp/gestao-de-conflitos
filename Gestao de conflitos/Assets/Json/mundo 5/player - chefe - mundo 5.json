@@ -1,0 +1,12 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "(Chamarei o Gato para uma pequena reunião, este problema não pode persistir mais neste ambiente de trabalho. Melhor resolvê-lo o quanto antes.)"
+        ]
+    }
+    
+]

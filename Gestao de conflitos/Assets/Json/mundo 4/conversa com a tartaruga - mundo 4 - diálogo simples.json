@@ -1,0 +1,133 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Olá, Tartaruga!"
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Ah, olá.",
+		"Precisando de alguma coisa, chefe?"
+             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Gostaria de parabenizá-lo pelo excelente trabalho, Tartaruga!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Me parabenizar?"             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Sim! Andei acompanhando seu desempenho, e você vem mantendo um ótimo rendimento. Muitos dizem que tartarugas são lentas, mas vejo que estive sendo injusto em julgá-lo assim à primeira vista.",
+			 "Por isso, gostaria de lhe pedir desculpas e reconhecer o seu trabalho."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Está tudo bem, já estou acostumado com este..."             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_pensa",
+        "fala": [
+            "Preconceito, talvez?"             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Me sinto mais à vontade realizando meu trabalho com paciência. Percebi que erro menos quando sigo meu próprio ritmo."             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "Interessante."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Só não sei quanto ao Gato...",
+			"Ele vem se esforçando bastante ultimamente, sabe?",
+			"Ficou mais tarde nos últimos 2 dias. Pareceu bastante preocupado com algo."
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Ah, sério?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_triste",
+        "fala": [
+            "Sim..."             
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Verei o que posso fazer! Obrigado mais uma vez, Tartaruga!"
+        ]
+    },    
+	{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "De nada, chefe."             
+        ]
+    }
+]

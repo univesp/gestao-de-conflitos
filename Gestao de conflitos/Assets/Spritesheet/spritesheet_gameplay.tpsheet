@@ -1,0 +1,87 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f0c16d925c29dee62a56b689bd96941b:35ea1142f095c1dd41770bfb13fdabaf:b3be882234353e4bc1084d0ce8e9830d$
+#
+:format=40300
+:texture=spritesheet_gameplay.png
+:size=2048x1024
+:pivotpoints=enabled
+:borders=disabled
+
+chefe_armario;1764;594;206;175; 0.5;0.5; 0;0;0;0
+chefe_quadro;836;41;213;121; 0.5;0.5; 0;0;0;0
+chefe_tile;578;663;160;360; 0.5;0.5; 0;0;0;0
+copa_cafe;1150;331;163;249; 0.5;0.5; 0;0;0;0
+copa_led;1290;177;11;4; 0.5;0.5; 0;0;0;0
+copa_mesa;1591;771;270;144; 0.5;0.5; 0;0;0;0
+copa_ponteiro;340;680;20;20; 0.0666667;0.09999999999999998; 0;0;0;0
+copa_relogio;1683;66;79;69; 0.5;0.5; 0;0;0;0
+copa_sofa;1226;867;318;156; 0.5;0.5; 0;0;0;0
+copa_tile1;988;311;160;355; 0.5;0.5; 0;0;0;0
+copa_tile2;826;304;160;357; 0.5;0.5; 0;0;0;0
+copa_tile3;1064;668;160;355; 0.5;0.5; 0;0;0;0
+copa_tile4;902;668;160;355; 0.5;0.5; 0;0;0;0
+elevador_desce;1131;185;59;53; 0.5;0.5; 0;0;0;0
+elevador_entrada;1;702;413;321; 0.5;0.5; 0;0;0;0
+elevador_espelho;1169;595;55;71; 0.5;0.5; 0;0;0;0
+elevador_fundo;1414;613;175;252; 0.5;0.5; 0;0;0;0
+elevador_planta1;1158;46;105;135; 0.5;0.5; 0;0;0;0
+elevador_planta2;1265;51;107;119; 0.5;0.5; 0;0;0;0
+elevador_planta3;1911;913;108;110; 0.5;0.5; 0;0;0;0
+elevador_planta4;1192;183;109;146; 0.5;0.5; 0;0;0;0
+elevador_porta1;1499;359;88;252; 0.5;0.5; 0;0;0;0
+elevador_sobe;1132;240;58;52; 0.5;0.5; 0;0;0;0
+elevador_tile;340;301;160;360; 0.5;0.5; 0;0;0;0
+escritorio_arcondicionado;637;63;197;57; 0.5;0.5; 0;0;0;0
+escritorio_arcondicionado_led;1;53;197;57; 0.5;0.5; 0;0;0;0
+escritorio_camera;1546;867;40;34; 0.5;0.5; 0;0;0;0
+escritorio_led1;1451;473;43;43; 0.5;0.5; 0;0;0;0
+escritorio_led2;1;4;48;47; 0.5;0.5; 0;0;0;0
+escritorio_mesa1;294;122;269;177; 0.5;0.5; 0;0;0;0
+escritorio_mesa1_cadeira;1893;67;127;173; 0.5;0.5; 0;0;0;0
+escritorio_mesa1_caneca;369;667;45;33; 0.5;0.5; 0;0;0;0
+escritorio_mesa1_la;1451;412;43;59; 0.5;0.5; 0;0;0;0
+escritorio_mesa1_telefone;1374;119;48;51; 0.5;0.5; 0;0;0;0
+escritorio_mesa2;565;122;269;177; 0.5;0.5; 0;0;0;0
+escritorio_mesa2_bola;1972;739;30;30; 0.5;0.5; 0;0;0;0
+escritorio_mesa2_cadeira;1541;170;127;187; 0.5;0.5; 0;0;0;0
+escritorio_mesa2_cubo;1155;298;35;31; 0.5;0.5; 0;0;0;0
+escritorio_mesa2_postit1;1546;906;31;9; 0.5;0.5; 0;0;0;0
+escritorio_mesa2_postit2;1205;582;19;9; 0.5;0.5; 0;0;0;0
+escritorio_mesa_postit1;51;40;53;11; 0.5;0.5; 0;0;0;0
+escritorio_mesa_postit2;340;663;23;12; 0.5;0.5; 0;0;0;0
+escritorio_tile;664;301;160;360; 0.5;0.5; 0;0;0;0
+fundo_galao;1591;543;171;226; 0.5;0.5; 0;0;0;0
+fundo_janela;1;404;337;296; 0.5;0.5; 0;0;0;0
+fundo_planta;1670;137;92;228; 0.5;0.5; 0;0;0;0
+luminaria_base;446;101;189;19; 0.5;0.5; 0;0;0;0
+luminaria_luz;836;164;289;138; 0.5;0.5; 0;0;0;0
+parede_tile1;1451;518;30;30; 0.5;0.5; 0;0;0;0
+parede_tile2;1467;581;30;30; 0.5;0.5; 0;0;0;0
+parede_tile3;1374;87;30;30; 0.5;0.5; 0;0;0;0
+parede_tile4;200;80;30;30; 0.5;0.5; 0;0;0;0
+reuniao_cadeira1;1764;65;127;175; 0.5;0.5; 0;0;0;0
+reuniao_cadeira2;1434;147;105;176; 0.5;0.5; 0;0;0;0
+reuniao_mesa;1546;917;363;106; 0.5;0.5; 0;0;0;0
+reuniao_tile;416;663;160;360; 0.5;0.5; 0;0;0;0
+reuniao_tv;1863;771;180;137; 0.5;0.5; 0;0;0;0
+reuniao_vaso;296;301;42;90; 0.5;0.5; 0;0;0;0
+seguranca_mesa;1764;418;189;174; 0.5;0.5; 0;0;0;0
+seguranca_mesinha;1303;172;129;151; 0.5;0.5; 0;0;0;0
+ti_armario;1226;582;186;283; 0.5;0.5; 0;0;0;0
+ti_cabos;1;112;291;290; 0.5;0.5; 0;0;0;0
+ti_cabos_led1;1504;325;35;31; 0.5;0.5; 0;0;0;0
+ti_cabos_led2;1414;584;46;27; 0.5;0.5; 0;0;0;0
+ti_cpu_led;1451;552;27;27; 0.5;0.5; 0;0;0;0
+ti_mesa1;1764;242;173;174; 0.5;0.5; 0;0;0;0
+ti_mesa1_cadeira;1939;242;105;146; 0.5;0.5; 0;0;0;0
+ti_mesa2;1589;367;173;174; 0.5;0.5; 0;0;0;0
+ti_mesa2_cadeira;1051;16;105;146; 0.5;0.5; 0;0;0;0
+ti_servidor;1315;325;134;255; 0.5;0.5; 0;0;0;0
+ti_servidor_led;1451;325;22;85; 0.5;0.5; 0;0;0;0
+ti_tile1;740;663;160;360; 0.5;0.5; 0;0;0;0
+ti_tile2;502;301;160;360; 0.5;0.5; 0;0;0;0

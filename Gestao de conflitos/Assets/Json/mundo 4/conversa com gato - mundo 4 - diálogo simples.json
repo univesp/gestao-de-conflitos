@@ -1,0 +1,117 @@
+﻿
+[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Olá, Gato! Desculpe incomodá-lo novamente."
+			 
+        ]
+    },
+
+   	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Po-pode falar, chefe."
+        ]
+    },
+	
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Está tudo bem por aqui?"
+        ]
+    },
+	
+	
+    {
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+             "Está sim."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+             "..."  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Então, estive acompanhando os rendimentos individuais da equipe e notei que o seu desempenho vem diminuindo nos últimos dias.",
+			"Aconteceu alguma coisa? Gostaria de conversar?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+             "!!!"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "Gato",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+             "Então, estive um pouco doente esta semana. Cuspindo bolas de pelo, sabe?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_indiferente",
+        "fala": [
+             "Cof! Cof!"  
+        ]
+    },
+	
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Ah, tudo bem. Se cuide, sim?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+             "Pode deixar."  
+        ]
+    }
+    
+]

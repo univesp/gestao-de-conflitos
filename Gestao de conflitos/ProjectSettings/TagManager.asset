@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interact
+  - Parede
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2380996919
+    locked: 0
+  - name: Objetos1
+    uniqueID: 3639823353
+    locked: 0
+  - name: NPC sentado
+    uniqueID: 592050255
+    locked: 0
+  - name: Objetos2
+    uniqueID: 3310571611
+    locked: 0
+  - name: NPC de pe
+    uniqueID: 2428731209
+    locked: 0
+  - name: PLAYER
+    uniqueID: 616588721
+    locked: 0
+  - name: Objetos3
+    uniqueID: 1417202689
+    locked: 0
+  - name: Parede
+    uniqueID: 3560734279
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

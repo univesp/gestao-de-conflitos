@@ -1,0 +1,94 @@
+﻿[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Não é responsabilidade sua saber disso?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_nervoso",
+        "fala": [
+            "E você acha que eu não sei qual é o meu trabalho?!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_nervoso",
+        "fala":[
+		"...",
+		"Pois não está parecendo."		 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_nervoso",
+        "fala":[
+             "ARGH!!!",
+			 "Se você conhecesse realmente os seus funcionários, não estaríamos tendo esta discussão para início de conversa!"		
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_nervoso",
+        "fala":[
+             "Como é que é? Olha como se dirige ao seu superior!"
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_nervoso",
+        "fala":[
+             "Para sua informação, sei bem como me dirigir! Mas se existe algo que não admito é ser tratado com desdém! Por mais que seja o meu próprio chefe!"	
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_nervoso",
+        "fala":[
+             "Verei o que faço ao seu respeito!",
+			 "(Quem esse Pinguim pensa que é?!)"
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_nervoso",
+        "fala":[
+             "Hunf!",
+			 "(Até imagino qual seja o problema, mas eu que não falo para esse cara! Ele que se vire!)"
+			 
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala":[
+             "(Melhor caminhar um pouco e tomar um café na copa.)",
+			 "(De repente me ajuda a desestressar um pouco.)"
+			 
+        ]
+    }	
+	
+]

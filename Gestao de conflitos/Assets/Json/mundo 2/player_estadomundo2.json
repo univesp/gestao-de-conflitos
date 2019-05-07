@@ -1,0 +1,22 @@
+﻿
+[
+   {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "Hum... Meu pessoal está produzindo menos? Por que será que o rendimento está caindo?"
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "Melhor dar uma voltinha e ver como estão as coisas por lá." 
+        ]
+    }
+	
+	
+]

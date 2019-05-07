@@ -1,0 +1,105 @@
+﻿[
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Como está o projeto? Anda tudo bem por aqui?"  
+        ]
+    },
+
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Está sim, chefe. Ocorreu alguma coisa?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "É que venho notando que o rendimento da equipe está caindo nos últimos dias...",
+			 "O que está acontecendo? Há algo em que posso ajudar?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_pensa",
+        "fala": [
+            "Eu não sei..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Ultimamente ando bastante ocupado com o projeto atual, não dispus de tempo para verificar o desempenho da equipe, infelizmente."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_pensa",
+        "fala": [
+            "Quem não anda muito bem é o Gato, parecia estar preocupado com alguma coisa esta semana. Não sei bem o motivo.",
+			"..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Lembrei de algo.",
+			"A planilha com as metas individuais dos últimos 2 dias ajudaria?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Perfeito! É exatamente o que estou precisando."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala":[
+             "Gostaria de receber por e-mail?"  
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala":[
+             "Sim, por favor.",
+			 "Obrigado, Pinguim."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala":[
+             "Por nada, chefe. Precisando, é só me informar."  
+        ]
+    }
+  
+]

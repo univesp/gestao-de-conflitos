@@ -1,0 +1,25 @@
+﻿
+[
+{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala":[
+             "Interessante. A Tartaruga que aparentava ser a menos produtiva, na verdade, é a mais eficiente! Realmente não se deve julgar um livro pela capa."
+			 
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala":[
+			 "Certo! Creio ter evidências o suficiente agora. Agora como abordar isso é a questão...",
+			 "Talvez ouvir o ponto de vista dos funcionários seja a melhor solução antes de tomar qualquer decisão.",
+			 "(Deixarei em aberto este e-mail no computador, apenas em caso de precisar consultá-lo novamente.)"
+			 
+        ]
+    }
+    
+]

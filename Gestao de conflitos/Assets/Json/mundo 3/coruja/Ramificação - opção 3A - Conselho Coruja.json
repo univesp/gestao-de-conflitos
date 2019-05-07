@@ -1,0 +1,234 @@
+﻿[
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala":[
+             "Bom dia, meu filho!"  
+            ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_nervoso",
+        "fala": [
+            "..."
+             
+        ]
+    },
+
+    {
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Ah.", 
+		"Bom dia, Coruja."
+			
+        ]
+    },
+
+    {
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Conheço essa carinha, Cachorro. Qual a preocupação hoje, filho?"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_pensa",
+        "fala": [
+            "Não vai me dizer que seu pequeno aprontou de novo..."  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Dessa vez não! Haha.",
+			 "Está caindo a produtividade do pessoal e não sei o porquê...",
+			 "E no final acabei discutindo com o Pinguim."
+			 ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Com o Pinguim? Nossa!"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Com o Pinguim? Nossa!"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_pensa",
+        "fala": [
+            "Ah, então foi por isso que escutei alguns berros vindos da janela..."  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Você sabe, ele é um pouco explosivo, mas apenas quando provocado. Como estava antes de começarem a confusão?"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "Hum..."
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Ele havia comentado algo sobre estar ocupado respondendo vários e-mails..."
+			
+        ]
+    },
+	
+		{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "E por estar estressado com isso."
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Pois, então..."  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Logo ele, sempre muito sério e dedicado. É um dos que menos aparecem por aqui. Quando vem, diz que deve voltar logo para o trabalho por conta das metas."  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "..."
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "O que faço, Coruja?"
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Veja, sempre dá tempo para fazer as pazes."  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala": [
+            "Sempre!"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_fala",
+        "fala": [
+            "Apenas tome cuidado para não acabar tirando ele do eixo novamente. As palavras têm poder, sabe? Tente analisar o lado da outra pessoa também, empatia sempre ajuda!",
+            "Mas primeiro precisamos cuidar desse teu estresse, hein!"			
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CORUJA",
+        "cachorroFala": false,
+        "expressao": "coruja_feliz",
+        "fala": [
+            "Venha, meu filho, tome este chá de camomila que acabo de preparar!"  
+        ] 	
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Ok!"
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+             "(Acalme-se, acalme-se...)",
+			 "(Preciso controlar melhor as minhas emoções.)"
+			
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+             "Obrigado, Coruja! Me sinto bem melhor!"
+			
+        ]
+    }
+	
+	
+]

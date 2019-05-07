@@ -1,0 +1,22 @@
+
+[
+{
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+            "Estou..."
+        ]
+    },
+
+    {
+        "nomePersonagem": "TARTARUGA",
+        "cachorroFala": false,
+        "expressao": "tartaruga_fala",
+        "fala": [
+			"Ocupado agora.",
+			"Podemos conversar mais tarde?"
+        ]
+    }		
+
+]

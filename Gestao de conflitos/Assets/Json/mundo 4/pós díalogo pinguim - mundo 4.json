@@ -1,0 +1,12 @@
+[
+   
+    {
+        "nomePersonagem": "PINGUIM",
+        "cachorroFala": false,
+        "expressao": "pinguim_fala",
+        "fala": [
+            "Boa sorte!"
+        ]
+    }	   
+	
+]

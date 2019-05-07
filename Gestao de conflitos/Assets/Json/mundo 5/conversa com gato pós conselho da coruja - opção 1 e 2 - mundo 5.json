@@ -1,0 +1,191 @@
+﻿
+[
+    	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Trouxe um café quentinho para gente!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Sabe, sinto que não venho sendo totalmente franco com você também."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "!!!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Andei notando essa diferença no tratamento comigo e acredito que não seja apenas por eu ser o seu superior direto.",
+			"Se você se sente desconfortável com algo, pode falar. O que não pode acontecer é continuarmos com este tratamento que não será benéfico para nenhuma das partes. Não concorda?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "Sim...",
+			"Em meu último emprego tive muitos problemas com meu superior... Ele era bastante instável, discutia por qualquer coisa, até havia chegado em momentos de ameaçar e...",
+			"Ele era um cachorro, né? Acho que só intensificou um pouco o meu medo de lidar com essas situações.",
+			"Sei que você não é ele, mas ainda é difícil para mim lidar com isso."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Entendo. Veja, uma das políticas dessa empresa, ou pelo menos a que eu gosto de implementar, é podermos contar um com o outro. Como em uma equipe. No final, todos dependemos um do outro para atingirmos um objetivo."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Sim."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_indiferente",
+        "fala": [
+            "..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Olha, meus rendimentos acabaram caindo não por estar doente...",
+			"Os arquivos do projeto acabaram corrompendo e tive de recomeçar do zero... Por isso ultimamente realizei horas extras. Sei que esse projeto é muito importante para a empresa e..."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_pensa",
+        "fala": [
+            "E é por isso que seu rendimento caiu."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "Sim."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_triste",
+        "fala": [
+            "Levarei alguma advertência ou... devo arrumar minhas coisas?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Advertência?! Claro que não. E muito menos irei demiti-lo por isso."
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "Ah, sério?"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "Achei que o problema fosse mais grave do que isso. Posso conversar com nosso cliente a respeito de um possível atraso no cronograma, mas podemos nos ajustar a isso.",
+			"O fato de ter se movimentado e compensar nas horas extras demonstra sua preocupação, apesar de que poderíamos ter resolvido isso mais cedo em uma reunião. Haha!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_susto",
+        "fala": [
+            "Então está tudo bem?!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Nossa.",
+			"Agora vejo o quão simples teria sido resolver isso. Obrigado!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "CHEFE",
+        "cachorroFala": true,
+        "expressao": "cachorro_fala",
+        "fala": [
+            "De nada! Precisando de algo, é só contar comigo!"
+        ]
+    },
+	
+	{
+        "nomePersonagem": "GATO",
+        "cachorroFala": false,
+        "expressao": "gato_fala",
+        "fala": [
+            "Pode deixar, chefe!"
+        ]
+    }	
+	
+]
